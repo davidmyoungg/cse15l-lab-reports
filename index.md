@@ -1,1 +1,1 @@
-[Lab Report 1](https://github.com/davidmyoungg/report/blob/main/lab-report-1-week-2.md)
+[Lab Report 1](https://davidmyoungg.github.io/report/lab-report-1-week-2.html)
