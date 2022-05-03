@@ -2,7 +2,7 @@
 
 ## **ERROR #1**
 
-![Error1](https://gyazo.com/7f7bd65c1f73eb05877447d4303d2e53)
+![Error1](labreport2error1.png)
 
 [**Link to fail-inducing input**](https://github.com/davidmyoungg/markdown-parser/commit/b7c8355f1f5b1f0892d2e40144fffbbad179dcf3)
 
