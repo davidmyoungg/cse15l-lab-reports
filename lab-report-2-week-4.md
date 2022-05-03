@@ -34,4 +34,8 @@ The relationship between the bug and the code is that it assumes that all "[]"s 
 
 ![Symptom3](https://gyazo.com/1e15e23ef17109690362d22958feb6ef.png)
 
+<<<<<<< HEAD
 The relationship between the bug and code is the fact that the code never checks if there is an invalid link. We see in our output that the terminal returns any link that was passed through a markdown reference, regardless if it was real or not. Because of that, we need to change the while loop to have a checking system for fake links. 
+=======
+The relationship between the bug and code is the fact that the code never checks if there is an invalid link. We see in our output that the terminal returns any link that was passed through a markdown reference, regardless if it was real or not. Because of that, we need to change the while loop to have a checking system for fake links.
+>>>>>>> f969a7c55726a82a217f13b71b837a4594b3a57e
