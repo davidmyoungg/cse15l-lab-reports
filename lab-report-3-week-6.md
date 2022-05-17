@@ -1,4 +1,4 @@
-# LAB REPORT 3 WEEK 6 #
+# LAB REPORT 3 WEEK 6 
 
 ## Streamlining ssh Configuration ##
 - Searching for the ssh config file with the `.ssh/config` file in the terminal opens up the file in vscode like this:
