@@ -13,3 +13,8 @@
 ---------
 ---------
 ## Setup Github Access from ieng6
+![image](https://gyazo.com/783662413197dfbf18d27420c7a6cb4a.png)
+
+---------
+---------
+## Copy Whole Directories with scp -r
