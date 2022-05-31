@@ -60,7 +60,15 @@ This is the test code I made in my Markdown repository
 
 However, it resulted in an error, producing:
 
-![S3 Test output](https://gyazo.com/d2cf399d54bf2d9cc3da4d60a4d4cfac.com)
+![S3 Test output](https://gyazo.com/82a3ee329039bc735f2ed570f00694e3.com)
 
 Comparing this to the test output of the Reviewed code from Weeb 7,
 ![S3 Reviewed output](https://gyazo.com/eb7d12ccf9b6073cbb0c02f3ca093f3b.com)
+
+## **Answers for the questions**
+
+**Snippet1:** For Snippet1, I believe there is a small change that I can make to make the code work. For example, because the `url.com` was considered as well as the extra backtick in front of the second `google.com`, I can change the code so that it checks for all backticks and returns a new output without any backticks. That way it has no way of considering a backtick.
+
+**Snippet 2:** I do not think there is a small code change I can make for the code to work. Because the issue regards to the parentheses, we have many conditions to meet in order for the parentheses to be deadcode ie. if the parentheses is right after `[]`; if the parentheses has any code inside of it.
+
+**Snippet 3:** I do not think there is a small code change I can make for the code to work. The Snippet contains many variables for us to consider, such as line breaks in different situations.
